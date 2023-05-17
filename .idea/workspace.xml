@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc96cad-6117-48d0-99de-a6a1c7cff588" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AJlab1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJlab5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/ChatApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/NWlab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/src/URLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/NWlab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/src/WebpageReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/url.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/urlContent.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/NWlab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/src/URIDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/NwPr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NwPr/src/scanURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/ServerSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/ServerSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/Thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thread/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/Unit4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/out/production/Unit4/unit4/Cookies/HTTP_Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/out/production/Unit4/unit4/Cookies/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/out/production/Unit4/unit4/Cookies/URLConnectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/src/unit4/Cookies/HTTP_Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/src/unit4/Cookies/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unit4/src/unit4/Cookies/URLConnectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../networkp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../networkp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../networkp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../networkp/networkp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../networkp/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/nwProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/out/production/nwProgramming/unit4/cookies/HTTP_Example$Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/out/production/nwProgramming/unit4/cookies/HTTP_Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/out/production/nwProgramming/url/FileWrite/ContentFromURL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/out/production/nwProgramming/url/FileWrite/EncoderDecoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/out/production/nwProgramming/url/FileWrite/URI_Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/src/url/FileWrite/ContentFromURL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/src/url/FileWrite/EncoderDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/src/url/FileWrite/URI_Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/src/url/FileWrite/URI_methodsS.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AJlab2" />
+  </component>
+  <component name="ProjectId" id="2PjwrvBjKH8MFlE41F9H207yyEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Seemana/IdeaProjects/Advance Java LAB Qsns/AJlab1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc96cad-6117-48d0-99de-a6a1c7cff588" name="Changes" comment="" />
+      <created>1683984001052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683984001052</updated>
+    </task>
+    <servers />
+  </component>
+</project>

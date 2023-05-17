@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AJlab1/AJlab1.iml" filepath="$PROJECT_DIR$/AJlab1/AJlab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJlab2/AJlab2.iml" filepath="$PROJECT_DIR$/AJlab2/AJlab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJlab3/AJlab3.iml" filepath="$PROJECT_DIR$/AJlab3/AJlab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJlab4/AJlab4.iml" filepath="$PROJECT_DIR$/AJlab4/AJlab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJlab5/AJlab5.iml" filepath="$PROJECT_DIR$/AJlab5/AJlab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advance Java LAB Qsns.iml" filepath="$PROJECT_DIR$/.idea/Advance Java LAB Qsns.iml" />
+    </modules>
+  </component>
+</project>
